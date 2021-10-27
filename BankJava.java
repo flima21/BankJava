@@ -1,4 +1,8 @@
 /*
+---------------------------------------------------------------------------
+Desenvolvedor: Felipe Pedroso de Lima 
+Curso: Análise e Desenvolvimento de Sistemas 
+---------------------------------------------------------------------------
 Representação de um sistema bancário feito em Java
 
 [1] Saldo
