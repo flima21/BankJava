@@ -36,7 +36,7 @@ public class BankJava {
         int menu;
 
         String cpf_user; // CPF que o sistema vai receber
-        String cpf = "47151074816";
+        String cpf = "11111111111";
 
         double saldo = 10000.00;
 
