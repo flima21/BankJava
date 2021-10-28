@@ -11,8 +11,8 @@ import java.util.Scanner  ;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;  
 import java.util.ArrayList;
-public class BankJava {
 
+public class BankJava {
     public static void main(String[] args) {
         int senha_user = 0; // senha que o sistema vai receber
         int senha = 12;
